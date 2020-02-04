@@ -3,4 +3,4 @@
 *.code-workspace
 temp/*
 *.vsix
-/vsc-extension-quickstart.md
+vsc-extension-quickstart.md
