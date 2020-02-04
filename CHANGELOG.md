@@ -18,6 +18,7 @@ All notable changes to the "anodeandsasspack" extension pack will be documented 
 - ESLint
 - Format Files
 - formate: CSS/LESS/SCSS formatter
+- gitignore
 - GitLens -- Git supercharged
 - Import Cost
 - indent-rainbow
@@ -32,6 +33,7 @@ All notable changes to the "anodeandsasspack" extension pack will be documented 
 - SCSS Scope Helper
 - scss-lint
 - Search node_modules
+- Settings Sync
 - Visual Studio IntelliCode
 - vscode-pdf
 - XML
