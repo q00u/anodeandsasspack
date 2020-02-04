@@ -1,0 +1,60 @@
+{
+    "name": "anodeandsasspack",
+    "displayName": "A Node & Sass Pack",
+    "description": "The extensions I use when programming Node.js webstuff",
+    "publisher": "q00u",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "icon": "NodeSass_128.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "node",
+        "nodejs",
+        "javascript",
+        "sass",
+        "scss"
+    ],
+    "repository": {
+        "url": "https://github.com/q00u/anodeandsasspack"
+    },
+    "homepage": "https://github.com/q00u/anodeandsasspack",
+    "bugs": {
+        "url": "https://github.com/q00u/anodeandsasspack/issues"
+    },
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "jasonnutter.search-node-modules",
+        "aaron-bond.better-comments", 
+        "adamwalzer.scss-lint", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "DavidAnson.vscode-markdownlint", 
+        "DotJoshJohnson.xml", 
+        "eamodio.gitlens", 
+        "ffpetrovic.scss-scope-helper", 
+        "gencer.html-slim-scss-css-class-completion", 
+        "janisdd.vscode-edit-csv", 
+        "jbockle.jbockle-format-files", 
+        "mechatroner.rainbow-csv", 
+        "michelemelluso.code-beautifier", 
+        "MikeBovenlander.formate", 
+        "ms-azuretools.vscode-azureappservice", 
+        "ms-vscode.azure-account", 
+        "oderwat.indent-rainbow", 
+        "redhat.vscode-xml", 
+        "redhat.vscode-yaml", 
+        "remimarsal.prettier-now", 
+        "rssowl.copy-relative-path-posix", 
+        "Shan.code-settings-sync", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "tomoki1207.pdf", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wix.vscode-import-cost"
+    ]
+}
